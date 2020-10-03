@@ -1,0 +1,245 @@
+Body{
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  font-family: Verdana,Arial, Helvetica ; 
+  background-color: #fefefe;
+  color: black;
+  font-size: 0.9rem;
+}
+h3{
+  font-size: 22px;
+  font-weight: 600;
+}
+
+#topHeader{
+  background-color:#f7f4e9 ; 
+  border-bottom: 1px solid black ;
+
+}
+#topHeader a{
+  color: #1d1d2c; 
+}
+
+#bottomHeader{
+  background-color:#292930;
+  
+ }
+#bottomHeader a{
+  padding-top: 0px ; 
+  padding-bottom: 0px; 
+  color: white;
+}
+.dropdown-menu{
+  background-color: #292930;
+}
+ 
+.container-fluid{
+  padding-left: 0px ; 
+  padding-right: 0px ; 
+}
+nav ul li a{
+  font-size: 0.9rem;
+  font-weight: 400 ;
+}
+ 
+
+/*START : footer */
+.full-Footer{
+  background-color:#08192b ; 
+}
+ 
+.top-footer p{
+color: white ;
+ }
+.top-footer a{
+  color: white ; 
+    
+  }
+.top-footer h3{
+    color: white ; 
+    font-size: 1.1rem;
+  
+  }
+.bottom-footer{
+  background-color:#292930;
+}
+.bottom-footer p{
+  color: white;
+}
+/*END : footer */ 
+
+/*start : Home  page first Top Hero Section */ 
+.topHeroSection{
+  background-color:#3c6382; 
+  font-weight: 600;
+}
+.topHeroSection h1{
+  font-weight: 600;
+  color:snow;
+}
+.topHeroSection h3{
+  font-weight: 600;
+  color:snow;
+}
+.topHeroSection h5{
+  font-weight: 500;
+  color: snow ;
+}
+ 
+qualities-img:hover{
+  transform: scale(2);
+}
+.buttomSection h3 {
+  font-weight: 700;
+  font-size: 23px;
+}
+.buttomSection h5 {
+  font-weight: 700;
+  font-size: 18px ;
+}
+/*END : Home page first Top Hero Section */ 
+
+/*start : Home  page seconde requirement section */ 
+.requirementSection{
+ background-color:#fcc133;
+ color:#000000; 
+ background-image: url(/imgs/contacter-nous.jpg);
+ width: 100%;
+}
+.requirementSection h3{
+color:#fcc133;
+font-size: 40px;
+font-weight: 700px;
+text-transform: uppercase;
+letter-spacing: 2px;
+}
+/*END : Home page seconde requirement section */ 
+
+/*-- :start of the home page 5th Newsletter section */
+.HomeNewsletter{
+  background-color:#292930;
+}
+.HomeNewsletter h3{
+  color:#ffffff;
+  font-size: 23px;
+}
+.HomeNewsletter .form-control{
+  height: 50px;
+  border-color: transparent;
+  border-radius:20px 0px 0px 20px ;
+}
+.HomeNewsletter .btn{
+  height: 50px;
+  border-color: transparent;
+  border-radius:0px 20px 20px 0px ;
+  background:indigo ;
+ color :snow ;
+}
+/*-- :End of the home page 5th Newsletter section */
+
+/*-- :start of the home page 7th clients section */
+.clients-section {
+  background-color:#3c6382;
+  color:white;
+}
+.clients-section h3 {
+  color:#000000;
+  font-size: 23px; 
+}
+/*-- :End of the home page 7th clients section */
+
+/*------------------------ :End of the home page styling------------------------- */
+/*-----------------------:Start of the About Us page styling------------------- */
+
+/*-----------------------:Start of the first section breadcrumbs------------------- */
+.breadcrumbs-section{
+  background-color: #e9ecef;
+}
+/*-----------------------:End of the first section breadcrumbs------------------- */
+
+
+
+/*-----------------------:End of the Contact Us page styling----------------------- */
+.address p{
+ font-weight: 600;
+}
+
+.address h5{
+  font-weight: 600;
+ }
+/*-----------------------:End of the Contact Us page styling----------------------- */
+
+/*-----------------------:Start of the Services Page----------------------- */
+.bar{
+  color: white;
+  border-radius: 17px;
+  
+}
+/*-----------------------:End of the Services Page----------------------- */
+.btn{
+  padding: 10px ;
+  font-size: 14px;
+
+}
+.btn:hover{
+  background-color: #fcc133;
+  color: white;
+  border-color: #292930;
+}
+.serviceSection{
+  background-color: #292930;
+  color: white;
+}
+.serviceSection h5{
+text-align: center;
+text-transform: uppercase;
+ 
+}
+.serviceSection ul{
+  padding-left: 30%;
+   
+  }
+.serviceSection hr{
+ background-color: white;
+}
+.clients-section{
+  background-color: white;
+  color: #292930;
+}
+.clients-section hr{
+  background-color: #292930;
+ }
+ .projectSection {
+   background : url(/imgs/slide/Seconde-img.jpg) no-repeat ; 
+   width: 100%;
+   height: 100%;
+    
+ }
+ 
+ .projectSection hr{
+   background-color: #292930;
+ }
+ .bg-overlay {
+  background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/imgs/slide/Seconde-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #292930;
+  height: 100%;
+  padding-top: 50px;
+}
+
+.bg-contactus {
+  background: linear-gradient(rgba(31, 27, 27, 0.7), rgba(56, 50, 50, 0.7)), url(/imgs/pawel-czerwinski--0xCCPIbl3M-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: white;
+  height: 100%;
+  padding-top: 50px;
+}
+
+.contuctusbrad{
+background-color: white;
+}
