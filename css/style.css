@@ -104,7 +104,7 @@ qualities-img:hover{
 .requirementSection{
  background-color:#fcc133;
  color:#000000; 
- background-image: url(imgs/contacter-nous.jpg);
+ background-image: url(./imgs/contacter-nous.jpg);
  width: 100%;
 }
 .requirementSection h3{
