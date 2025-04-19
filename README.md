@@ -5,14 +5,14 @@ The goal is to provide a clean and reusable base with a simple structure and int
 
 🚀 Features
 
-Clean and organized project structure
-Responsive design with Bootstrap 5
-HTML5 semantic markup
-Custom styling with CSS3
-Easy to customize and scale
+- Clean and organized project structure
+- Responsive design with Bootstrap 5
+- HTML5 semantic markup
+- Custom styling with CSS3
+- Easy to customize and scale
 
 📁 Technologies Used
 
-HTML5
-CSS3
-Bootstrap 5
+- HTML5
+- CSS3
+- Bootstrap 5
